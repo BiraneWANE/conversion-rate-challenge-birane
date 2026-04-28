@@ -3,7 +3,7 @@
 ## Vue d'ensemble
 Ce projet traite un challenge de **classification binaire** : prédire si un visiteur va s'abonner à la newsletter **Data Science Weekly**.
 
-Ce dépôt présente une version propre, lisible et reproductible du projet, construite pour rester **parfaitement alignée avec le brief officiel et la méthodologie du cours**.
+Ce dépôt présente une version propre, lisible et reproductible du projet, construite pour rester ** alignée avec le brief officiel et la méthodologie du cours**.
 
 ## Contexte métier
 L'entreprise souhaite mieux comprendre le comportement des visiteurs sur son site et identifier les principaux facteurs qui favorisent l'inscription à la newsletter.
